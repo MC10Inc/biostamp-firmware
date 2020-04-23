@@ -2,8 +2,6 @@
 
 This repository contains BioStamp3™ firmware image files.
 
-This firmware adds a new option to configure the AFE4900 sampling rate in all modes (ECG, PPG, SpO2). The option is mandatory so the existing Android and web apps which don't have it yet will not be able to enable the AFE4900 in any mode. The attached Android app adds that setting internally so that it will continue to work in ECG mode, but it does not yet have any support for PPG otherwise.
-
 ## 2020-04-28 - [brc3app_e7a04a70.img][3]
 
   * Add SpO2 mode (red + IR) for AFE4900

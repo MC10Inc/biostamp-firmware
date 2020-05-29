@@ -2,6 +2,10 @@
 
 This repository contains BioStamp3™ firmware image files.
 
+## 2020-05-29 - [brc3app_5d8d3d44.img][4]
+
+  * Add blink configuration options 
+
 ## 2020-04-28 - [brc3app_3c0ea3c3.img][3]
 
   * Add SpO2 mode (red + IR) for AFE4900
@@ -23,3 +27,4 @@ This repository contains BioStamp3™ firmware image files.
 [1]: https://raw.githubusercontent.com/MC10Inc/biostamp-firmware/master/images/brc3app_8f61a128.img
 [2]: https://raw.githubusercontent.com/MC10Inc/biostamp-firmware/master/images/brc3app_c6b1227a.img
 [3]: https://raw.githubusercontent.com/MC10Inc/biostamp-firmware/master/images/brc3app_3c0ea3c3.img
+[3]: https://raw.githubusercontent.com/MC10Inc/biostamp-firmware/master/images/brc3app_5d8d3d44.img
